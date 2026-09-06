@@ -1,0 +1,9 @@
+{
+  "name": "baxiang-geometry",
+  "version": "1.0.0",
+  "description": "Eight Thurston geometries and sixty-four I Ching hexagrams: an interactive visual atlas",
+  "type": "module",
+  "license": "MIT",
+  "scripts": { "check": "node scripts/check.mjs" },
+  "engines": { "node": ">=18" }
+}
